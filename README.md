@@ -44,7 +44,7 @@ The POC therefore contains separate exception groups for services such as:
 - SharePoint / OneDrive
 - Microsoft Teams
 
-#ZTDNS event logs
+# ZTDNS event logs
 ZTDNS provides useful Windows Event Viewer logs.
 
 Open:Event Viewer
